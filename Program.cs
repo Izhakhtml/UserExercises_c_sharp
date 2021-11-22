@@ -67,3 +67,5 @@ using CompareTesk;
 //manager.NameOfClass = "INTERNAL";
 //Console.WriteLine(manager);
 
+Worker worker = new Worker("sdc", 1500, "dedwedasew@bbf.com", 4222, "sssss");
+worker.GetDetails();

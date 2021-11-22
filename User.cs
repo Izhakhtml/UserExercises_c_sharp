@@ -18,9 +18,9 @@ namespace CompareTesk
             this.email = email;
         }
         public User() { }
-        public void Print()
+        protected virtual string Print()
         {
-            Console.WriteLine($"NAME:{this.name} BIRTHYEAR:{this.birthYear} EMAIL:{this.email}");
+            return $"NAME:{this.name} BIRTHYEAR:{this.birthYear} EMAIL:{this.email}";
         }
         public int CompareTo(object obj) 
         {

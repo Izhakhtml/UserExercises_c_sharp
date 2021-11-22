@@ -16,6 +16,13 @@ namespace CompareTesk
             this.position = position;
         }
         public Worker() { }
-    
+        protected override string Print()
+        {
+        return $"{base.Print()}SALARY:{this.salary} POSITION:{this.position}";
+        }
+        public void GetDetails()
+        {
+            Console.WriteLine(Print());
+        }
     }
 }
