@@ -1,0 +1,15 @@
+C:\Users\אליאב ליגעלם\source\repos\CompareTesk\obj\Debug\net6.0\CompareTesk.csproj.AssemblyReference.cache
+C:\Users\אליאב ליגעלם\source\repos\CompareTesk\obj\Debug\net6.0\CompareTesk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אליאב ליגעלם\source\repos\CompareTesk\obj\Debug\net6.0\CompareTesk.AssemblyInfoInputs.cache
+C:\Users\אליאב ליגעלם\source\repos\CompareTesk\obj\Debug\net6.0\CompareTesk.AssemblyInfo.cs
+C:\Users\אליאב ליגעלם\source\repos\CompareTesk\obj\Debug\net6.0\CompareTesk.csproj.CoreCompileInputs.cache
+C:\Users\אליאב ליגעלם\source\repos\CompareTesk\bin\Debug\net6.0\CompareTesk.exe
+C:\Users\אליאב ליגעלם\source\repos\CompareTesk\bin\Debug\net6.0\CompareTesk.deps.json
+C:\Users\אליאב ליגעלם\source\repos\CompareTesk\bin\Debug\net6.0\CompareTesk.runtimeconfig.json
+C:\Users\אליאב ליגעלם\source\repos\CompareTesk\bin\Debug\net6.0\CompareTesk.dll
+C:\Users\אליאב ליגעלם\source\repos\CompareTesk\bin\Debug\net6.0\ref\CompareTesk.dll
+C:\Users\אליאב ליגעלם\source\repos\CompareTesk\bin\Debug\net6.0\CompareTesk.pdb
+C:\Users\אליאב ליגעלם\source\repos\CompareTesk\obj\Debug\net6.0\CompareTesk.dll
+C:\Users\אליאב ליגעלם\source\repos\CompareTesk\obj\Debug\net6.0\ref\CompareTesk.dll
+C:\Users\אליאב ליגעלם\source\repos\CompareTesk\obj\Debug\net6.0\CompareTesk.pdb
+C:\Users\אליאב ליגעלם\source\repos\CompareTesk\obj\Debug\net6.0\CompareTesk.genruntimeconfig.cache
